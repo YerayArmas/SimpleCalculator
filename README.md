@@ -1,7 +1,7 @@
 # SimpleCalculator
 A simple calculator with a blend of PHP and Javascript
 
-# DEVELOPER / TEAM | 
+# DEVELOPER / TEAM 
 
 :gemini: Yeray Armas: https://github.com/JEDI84
 
